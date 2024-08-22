@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    margin-top: 10px;
+}
+.second-form{
+    margin-top: 10px;
+}
+.second-form p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
+button{
+    background-color: lightblue;
+}
+body{
+    background-color: antiquewhite;
+}
+.third{
+    margin-top: 10px;
+}
+
+.input{
+    margin-bottom: 10px;
+    text-decoration: underline;
+    font-weight: 500px;
+}
